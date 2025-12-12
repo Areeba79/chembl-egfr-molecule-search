@@ -1,0 +1,22 @@
+molecule_chembl_id,target,activity_type,activity_value,activity_units,assay_description
+CHEMBL292323,CHEMBL203,IC50,6.5,uM,Inhibition of tyrosine phosphorylation activity of the epidermal growth factor receptor (EGFR) tyrosine kinase from human A-431 carcinoma cell-shed membrane vesicles
+CHEMBL334334,CHEMBL203,IC50,9.0,uM,Inhibition of EGF-dependent DNA synthesis in ER 22 cells incubated with [3H]TdR
+CHEMBL316764,CHEMBL203,IC50,100.0,uM,Inhibition of EGF-dependent DNA synthesis in ER 22 cells incubated with [3H]TdR
+CHEMBL545315,CHEMBL203,IC50,1.5,nM,Inhibition of phosphorylation of a polyglutamic acid/tyrosine random copolymer by EGFR enzyme (from human A431 carcinoma cell vesicles)
+CHEMBL111365,CHEMBL203,IC50,1.3,uM,Inhibitory concentration was evaluated against epidermal growth factor receptor (EGFr) tyrosine kinase
+CHEMBL52591,CHEMBL203,IC50,4.3,nM,"Inhibition of phosphorylation of phospholipase C gamma1 by Epidermal growth factor receptor, from human A431 carcinoma cell vesicles"
+CHEMBL64459,CHEMBL203,IC50,100.0,uM,Inhibition of tyrosine phosphorylation activity of the epidermal growth factor receptor (EGFR) tyrosine kinase from human A-431 carcinoma cell-shed membrane vesicles
+CHEMBL129989,CHEMBL203,IC50,100.0,uM,Inhibition of EGF-dependent DNA synthesis in ER 22 cells incubated with [3H]TdR
+CHEMBL132907,CHEMBL203,IC50,20.0,uM,Inhibition of EGF-dependent DNA synthesis in ER 22 cells incubated with [3H]TdR
+CHEMBL268368,CHEMBL203,IC50,100.0,uM,Inhibitory activity against recombinant tyrosine kinase EGF-R (EGF-R ICD)
+CHEMBL422292,CHEMBL203,IC50,1.5,nM,Inhibition of phosphorylation of a polyglutamic acid/tyrosine random copolymer by EGFR enzyme (from human A431 carcinoma cell vesicles)
+CHEMBL110034,CHEMBL203,IC50,5.0,uM,Inhibitory concentration was evaluated against epidermal growth factor receptor (EGFr) tyrosine kinase
+CHEMBL113023,CHEMBL203,IC50,0.25,uM,Inhibitory concentration was evaluated against epidermal growth factor receptor (EGFr) tyrosine kinase
+CHEMBL417420,CHEMBL203,IC50,2.9,nM,"Inhibition of phosphorylation of phospholipase C gamma1 by Epidermal growth factor receptor, from human A431 carcinoma cell vesicles"
+CHEMBL304414,CHEMBL203,IC50,10.0,uM,Inhibition of tyrosine phosphorylation activity of the epidermal growth factor receptor (EGFR) tyrosine kinase from human A-431 carcinoma cell-shed membrane vesicles
+CHEMBL106232,CHEMBL203,IC50,4.5,uM,Inhibitory concentration was evaluated against epidermal growth factor receptor (EGFr) tyrosine kinase
+CHEMBL327127,CHEMBL203,IC50,0.09,uM,Inhibitory concentration was evaluated against epidermal growth factor receptor (EGFr) tyrosine kinase
+CHEMBL294475,CHEMBL203,IC50,0.81,nM,"Inhibition of phosphorylation of phospholipase C gamma1 by Epidermal growth factor receptor, from human A431 carcinoma cell vesicles"
+CHEMBL266487,CHEMBL203,IC50,50.0,uM,Inhibitory activity against recombinant tyrosine kinase EGF-R (EGF-R ICD)
+CHEMBL293261,CHEMBL203,IC50,0.85,uM,Inhibition of human epidermal growth factor receptor (EGFR)
+

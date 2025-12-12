@@ -1,0 +1,162 @@
+[
+    {
+        "molecule_chembl_id":"CHEMBL292323",
+        "target":"CHEMBL203",
+        "activity_type":"IC50",
+        "activity_value":"6.5",
+        "activity_units":"uM",
+        "assay_description":"Inhibition of tyrosine phosphorylation activity of the epidermal growth factor receptor (EGFR) tyrosine kinase from human A-431 carcinoma cell-shed membrane vesicles"
+    },
+    {
+        "molecule_chembl_id":"CHEMBL334334",
+        "target":"CHEMBL203",
+        "activity_type":"IC50",
+        "activity_value":"9.0",
+        "activity_units":"uM",
+        "assay_description":"Inhibition of EGF-dependent DNA synthesis in ER 22 cells incubated with [3H]TdR"
+    },
+    {
+        "molecule_chembl_id":"CHEMBL316764",
+        "target":"CHEMBL203",
+        "activity_type":"IC50",
+        "activity_value":"100.0",
+        "activity_units":"uM",
+        "assay_description":"Inhibition of EGF-dependent DNA synthesis in ER 22 cells incubated with [3H]TdR"
+    },
+    {
+        "molecule_chembl_id":"CHEMBL545315",
+        "target":"CHEMBL203",
+        "activity_type":"IC50",
+        "activity_value":"1.5",
+        "activity_units":"nM",
+        "assay_description":"Inhibition of phosphorylation of a polyglutamic acid\/tyrosine random copolymer by EGFR enzyme (from human A431 carcinoma cell vesicles)"
+    },
+    {
+        "molecule_chembl_id":"CHEMBL111365",
+        "target":"CHEMBL203",
+        "activity_type":"IC50",
+        "activity_value":"1.3",
+        "activity_units":"uM",
+        "assay_description":"Inhibitory concentration was evaluated against epidermal growth factor receptor (EGFr) tyrosine kinase"
+    },
+    {
+        "molecule_chembl_id":"CHEMBL52591",
+        "target":"CHEMBL203",
+        "activity_type":"IC50",
+        "activity_value":"4.3",
+        "activity_units":"nM",
+        "assay_description":"Inhibition of phosphorylation of phospholipase C gamma1 by Epidermal growth factor receptor, from human A431 carcinoma cell vesicles"
+    },
+    {
+        "molecule_chembl_id":"CHEMBL64459",
+        "target":"CHEMBL203",
+        "activity_type":"IC50",
+        "activity_value":"100.0",
+        "activity_units":"uM",
+        "assay_description":"Inhibition of tyrosine phosphorylation activity of the epidermal growth factor receptor (EGFR) tyrosine kinase from human A-431 carcinoma cell-shed membrane vesicles"
+    },
+    {
+        "molecule_chembl_id":"CHEMBL129989",
+        "target":"CHEMBL203",
+        "activity_type":"IC50",
+        "activity_value":"100.0",
+        "activity_units":"uM",
+        "assay_description":"Inhibition of EGF-dependent DNA synthesis in ER 22 cells incubated with [3H]TdR"
+    },
+    {
+        "molecule_chembl_id":"CHEMBL132907",
+        "target":"CHEMBL203",
+        "activity_type":"IC50",
+        "activity_value":"20.0",
+        "activity_units":"uM",
+        "assay_description":"Inhibition of EGF-dependent DNA synthesis in ER 22 cells incubated with [3H]TdR"
+    },
+    {
+        "molecule_chembl_id":"CHEMBL268368",
+        "target":"CHEMBL203",
+        "activity_type":"IC50",
+        "activity_value":"100.0",
+        "activity_units":"uM",
+        "assay_description":"Inhibitory activity against recombinant tyrosine kinase EGF-R (EGF-R ICD)"
+    },
+    {
+        "molecule_chembl_id":"CHEMBL422292",
+        "target":"CHEMBL203",
+        "activity_type":"IC50",
+        "activity_value":"1.5",
+        "activity_units":"nM",
+        "assay_description":"Inhibition of phosphorylation of a polyglutamic acid\/tyrosine random copolymer by EGFR enzyme (from human A431 carcinoma cell vesicles)"
+    },
+    {
+        "molecule_chembl_id":"CHEMBL110034",
+        "target":"CHEMBL203",
+        "activity_type":"IC50",
+        "activity_value":"5.0",
+        "activity_units":"uM",
+        "assay_description":"Inhibitory concentration was evaluated against epidermal growth factor receptor (EGFr) tyrosine kinase"
+    },
+    {
+        "molecule_chembl_id":"CHEMBL113023",
+        "target":"CHEMBL203",
+        "activity_type":"IC50",
+        "activity_value":"0.25",
+        "activity_units":"uM",
+        "assay_description":"Inhibitory concentration was evaluated against epidermal growth factor receptor (EGFr) tyrosine kinase"
+    },
+    {
+        "molecule_chembl_id":"CHEMBL417420",
+        "target":"CHEMBL203",
+        "activity_type":"IC50",
+        "activity_value":"2.9",
+        "activity_units":"nM",
+        "assay_description":"Inhibition of phosphorylation of phospholipase C gamma1 by Epidermal growth factor receptor, from human A431 carcinoma cell vesicles"
+    },
+    {
+        "molecule_chembl_id":"CHEMBL304414",
+        "target":"CHEMBL203",
+        "activity_type":"IC50",
+        "activity_value":"10.0",
+        "activity_units":"uM",
+        "assay_description":"Inhibition of tyrosine phosphorylation activity of the epidermal growth factor receptor (EGFR) tyrosine kinase from human A-431 carcinoma cell-shed membrane vesicles"
+    },
+    {
+        "molecule_chembl_id":"CHEMBL106232",
+        "target":"CHEMBL203",
+        "activity_type":"IC50",
+        "activity_value":"4.5",
+        "activity_units":"uM",
+        "assay_description":"Inhibitory concentration was evaluated against epidermal growth factor receptor (EGFr) tyrosine kinase"
+    },
+    {
+        "molecule_chembl_id":"CHEMBL327127",
+        "target":"CHEMBL203",
+        "activity_type":"IC50",
+        "activity_value":"0.09",
+        "activity_units":"uM",
+        "assay_description":"Inhibitory concentration was evaluated against epidermal growth factor receptor (EGFr) tyrosine kinase"
+    },
+    {
+        "molecule_chembl_id":"CHEMBL294475",
+        "target":"CHEMBL203",
+        "activity_type":"IC50",
+        "activity_value":"0.81",
+        "activity_units":"nM",
+        "assay_description":"Inhibition of phosphorylation of phospholipase C gamma1 by Epidermal growth factor receptor, from human A431 carcinoma cell vesicles"
+    },
+    {
+        "molecule_chembl_id":"CHEMBL266487",
+        "target":"CHEMBL203",
+        "activity_type":"IC50",
+        "activity_value":"50.0",
+        "activity_units":"uM",
+        "assay_description":"Inhibitory activity against recombinant tyrosine kinase EGF-R (EGF-R ICD)"
+    },
+    {
+        "molecule_chembl_id":"CHEMBL293261",
+        "target":"CHEMBL203",
+        "activity_type":"IC50",
+        "activity_value":"0.85",
+        "activity_units":"uM",
+        "assay_description":"Inhibition of human epidermal growth factor receptor (EGFR)"
+    }
+]
